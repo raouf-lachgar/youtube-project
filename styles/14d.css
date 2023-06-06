@@ -1,0 +1,26 @@
+.rightbar{
+color: white;
+background-color: green;
+position: fixed;
+top: 0;
+bottom: 0;
+right: 0;
+width: 100px;
+}
+.backg{
+display: flex;
+background-color: rgba(0, 0, 0, 0.8);
+top: 0;
+bottom: 0;
+left: 0;
+right: 0;
+position: fixed;
+align-items: center;
+justify-content: center;
+}
+.element{
+border-style: none;
+background-color: white;
+padding: 10px 150px 10px 10px;
+border-radius: 10px;
+}
